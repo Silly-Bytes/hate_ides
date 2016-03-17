@@ -36,6 +36,8 @@ So what is wrong with IDEs then?
     "click there and it will automatically work".
 
 * Stop wasting my pixels!
+    * The code! I want the code to be the main thing in my screen, not a tiny
+      spot in the center.
 
 * (IDEs are bad programming languages
   enablers.)[https://dzone.com/articles/ide-bad-programming-language]
