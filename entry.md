@@ -55,6 +55,9 @@ So what is wrong with IDEs then?
       reach some stupid buttons in a GUI or to acomplish text editing because
       the IDE's editor sucks is just plain stupid.
 
+* Give me my resources back!
+  I want all that memory and CPU for the compilation, not for the code editing!
+
 * It should be programmable or die, if you don't have something you would like
   to have, or you have an idea to improve your work flow you should be able to
   just implement it! (Emacs, Vim, Sublime and Atom are good examples).
