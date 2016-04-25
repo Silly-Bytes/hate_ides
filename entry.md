@@ -5,8 +5,7 @@ Lets start by taking off of the discussion some important things:
 
 * Using an IDE and taking advantage of what it has to offer doesn't mean you're
   a bad programmer, and using a good text editor doesn't mean you're a good one.
-* Using an IDE can make you a bad programmer.
-* Relaying on an IDE can make you a bad programmer.
+* Using an IDE **can** make you a bad programmer.
 * Depending on an IDE means your a bad programmer.
 
 I think a lot of people will agree with this, so lets move on.
