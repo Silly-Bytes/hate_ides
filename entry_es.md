@@ -1,14 +1,14 @@
 Por qué odio los IDEs
 =====================
 
-Empezamos quitando de la discusión algunas cosas importantes:
+Empecemos quitando de la discusión algunas cosas importantes:
 
 * Usar un IDE y tomar ventaja de lo que tiene que ofrecer no significa que sea
   un mal programador, y usar un buen editor de texto no significa que sea bueno.
 * Usar un IDE puede **convertirlo** en un mal programador.
 * Depender de un IDE significa que es un mal programador.
 
-Pienso que muchas personas estarán de acuerdo sobre esto, así continuemos.
+Pienso que muchas personas estarán de acuerdo sobre esto, así que continuemos.
 
 Continuaré actualizando esta lista en el futuro, si tiene algo que le gustaría
 agregar aquí por favor déjeme saber.
@@ -67,8 +67,8 @@ Entonces cual es el problema con los IDEs?
   no poner todo en una gigante y horrible pila de basura.
 
 * Como es posible que una librería funcione correctamente desde un IDE pero no
-  desde otro? Ya es lo bastante estupido y malo que sea dependiente del
-  compilador en algunos casos, pero dependiente del IDE? tienes que estarme
+  desde otro? Ya es lo bastante estúpido y malo que sea dependiente del
+  compilador en algunos casos, pero dependiente del IDE? Tienes que estarme
   jodiendo!
   [Cita requerida: Esto me ocurrió a mi una vez con alguna librería gráfica para
   C, lo describiré aquí en cuanto lo recuerde y pueda recrear el problema]
@@ -93,11 +93,6 @@ Entonces cual es el problema con los IDEs?
 
 * Si el IDE sabe más que tu, eres un idiota!. A los programadores no les gusta
   la magia.
-
-* Automation is good!, but if you **have** to use an IDE to implement a SOAP web
-  service in a freaking JSF application because there is no other way in which
-  you don't have to go through a traumatic process, then you are under lots of
-  shit.
 
 * La Automatización es buena!, pero si **tienes** que usar un IDE para
   implementar un servicio web en una aplicación JSF por que no hay otra forma en
